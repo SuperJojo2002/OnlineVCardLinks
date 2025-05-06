@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Jürgen Dähn
+N;CHARSET=UTF-8:Dähn;Jürgen;;;
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:juergen.daehn@deutsche-finanzagentur.de
+TEL;TYPE=HOME,VOICE:01752988182
+ADR;CHARSET=UTF-8;TYPE=HOME:;;;;;;Deutschland
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Lurgiallee 5;Frankfurt am Main;;60295;
+URL;type=WORK;CHARSET=UTF-8:www.deutsche-finanzagentur.de
+REV:2025-05-06T10:15:17.084Z
+END:VCARD
